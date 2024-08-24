@@ -1,0 +1,15 @@
+[
+  {
+    "relation" : [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target" : {
+      "namespace" : "android_app",
+      "package_name" : "com.example.lyrico",
+      "sha256_cert_fingerprints" : [
+        "1eea5e0f8f6cea9297eebb1f34303603c8af9e89ca124ee5b65f0f3ea4bab47d"
+      ]
+    }
+  }
+]
